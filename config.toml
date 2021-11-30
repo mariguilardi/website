@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "Brasil"
   orgLocal = "São Paulo"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  favicon = "/img/mariana_lab_em_pixel_.png"
+  logo = "/img/mariana_lab_em_pixel_.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -82,9 +82,9 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
   [[params.social]]
-      icon      = "instagram" # icon name without the 'fa-'
+      icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.instagram.com/explore/tags/apero/"
+      url       = "https://orcid.org/0000-0002-6076-0023"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
