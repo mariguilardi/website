@@ -1,6 +1,6 @@
 ---
 title: "Mariana Dias Guilardi"
-subtitle: "Bióloga | Entusiasta em Ciência de Dados"
+subtitle: "Bióloga | Ciência de Dados"
 description: "Este é meu site pessoal!"
 date: 2019-02-18T12:27:33-06:00
 images:
