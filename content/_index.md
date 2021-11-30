@@ -4,9 +4,9 @@ subtitle: "Bióloga | Ciência de Dados"
 description: "Este é meu site pessoal!"
 date: 2019-02-18T12:27:33-06:00
 images:
-  - img/revoir.jpg
-image_left: true
-text_align_left: false
+  - img/foto.JPG
+image_left: false
+text_align_left: true
 show_social_links: true # specify social accounts in site config
 show_action_link: true
 action_link: /about
