@@ -1,30 +1,23 @@
 ---
-title: "A campfire"
-subtitle: "Testing"
-excerpt: "Here is a talk I gave on making awesome personal websites using Hugo, blogdown, GitHub, and Netlify."
-date: 2021-01-12
+title: "Fundamentos em R"
+subtitle: ""
+excerpt: "Oficinas sobre os fundamentos em linguagem R."
+date: 2019-05-25
 date_end: "2021-01-13"
 show_post_time: false
 event: "rstudio::global(2021)"
-event_url: https://global.rstudio.com
-author: "Alison Hill"
-location: "Sydney, Australia"
+event_url: https://mariguilardi.github.io/2019-05-Fundamentals-Of-R-R-LadiesSP/#1
+author: "Haydée Svab, Mariana D. Guilardi e Patricia Guisordi"
+location: "São Paulo, São Paulo"
 draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
 - workshop
 links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/apreshill/bakeoff
+  url: https://github.com/mariguilardi/2019-05-Fundamentals-Of-R-R-LadiesSP
 ---
 
-{{< here >}}
-
-I'm really excited to give this talk! Stay tuned for video and slides.
