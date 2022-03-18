@@ -1,15 +1,7 @@
 baseURL = "/"
 theme = "hugo-apero"
-DefaultContentLanguage = "pt"
-[languages]
-[languages.en]
-  languageCode = "en-us"
-  contentDir = "content\en"
-  title = "English site"
-[languages.pt]
-  languageCode = "pt-br"
-  contentDir = "content\pt"
-  title = "Site pessoal de Mariana Dias Guilardi"
+languageCode = "pt-br"
+title = "Site pessoal de Mariana Dias Guilardi"
 author = "Mariana Dias Guilardi"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
