@@ -12,15 +12,13 @@ layout: list # list, list-sidebar
 
 # for list-sidebar layout
 sidebar: 
-  title: Talks that Last
+  title: Apresentações
   description: |
-    This is a list for your talks, workshops, or 
-    other events with a time, date, and place. 
-    Even this sidebar offers a ton of customizations.
+    Esta é uma lista de palestras e oficinas que ministrei ou organizei.
     
     Check out the _index.md file in the /talk folder 
     to edit this content. 
-  author: "The R Markdown Team @RStudio"
+  author: "Mariana Dias Guilardi"
   text_link_label: Subscribe via RSS
   text_link_url: /talk/index.xml
   show_sidebar_adunit: false # show ad container
