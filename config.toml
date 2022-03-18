@@ -120,17 +120,17 @@ enableEmoji = true
   [[menu.header]]
     name = "Sobre mim"
     title = "Sobre mim"
-    url = "/sobre/"
+    url = "/about/"
     weight = 2
   [[menu.header]]
     name = "Projetos"
     title = "Portfólio de Projetos"
-    url = "/projetos/"
+    url = "/project/"
     weight = 3
   [[menu.header]]
     name = "Apresentações"
     title = "Apresentações"
-    url = "/apresentacoes/"
+    url = "/talk/"
     weight = 4
   [[menu.header]]
     name = "Pesquisa"
