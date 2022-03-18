@@ -1,7 +1,7 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "pt-br"
-title = "Site pessoal de Mariana Dias Guilardi"
+title = "Mariana Dias Guilardi"
 author = "Mariana Dias Guilardi"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -118,8 +118,8 @@ enableEmoji = true
     url = "/"
     weight = 1
   [[menu.header]]
-    name = "Sobre"
-    title = "Sobre"
+    name = "Sobre mim"
+    title = "Sobre mim"
     url = "/sobre/"
     weight = 2
   [[menu.header]]
