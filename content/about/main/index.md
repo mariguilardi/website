@@ -1,14 +1,15 @@
 ---
 ## Configure page content in wide column
-title: "What I'm up to lately" # leave blank to exclude
+title: "Oi, sou a Mariana. Prazer em te conhecer!" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Cultures clash as I adjust to the challenges of life in Paris while juggling my career, new friendships, and love life. Here is how to catch up with me lately!
-show_outro: true
-outro: |
-  <i class="fas fa-mug-hot pr2"></i>If my blog has helped you, you can [buy me a coffee](https://ko-fi.com/)!
+  Sou bióloga e aspirante a Cientista de Dados. Atualmente, sou mestranda no Programa Interunidades em Biotecnologia pela USP/IPT/ Instituto Butantan. 
+  Desenvolvi experiência em análise de dados com linguagens Python e R.
+  Já na Biologia, tenho experiência em técnicas citogenéticas (rotineiras e hibridização in situ fluorescente) e de genética molecular. Também tenho experiência em análise dados genéticos e de distribuição espacial com ferramentas computacionais (ex. Geneious e QuantumGis).
+  Participo das comunidades de diversidade e inclusão, como PyLadies São Paulo e R-Ladies São Paulo, onde organizou eventos e participou como instrutora e monitora. Também é membra do Grupos de Estudos em Data Science das PyLadies São Paulo, que tem intuito de estudar estatística e linguagem Python com aplicação na Ciência de Dados.
+  
 ---
 
 ** index doesn't contain a body, just front matter above.
