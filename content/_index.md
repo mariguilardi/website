@@ -1,7 +1,7 @@
 ---
 title: "Mariana Dias Guilardi"
 subtitle: "Bióloga | Ciência de Dados"
-description: "Este é meu site pessoal!"
+description: "Boas vindas! 👋"
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/foto.JPG
