@@ -75,7 +75,7 @@ enableEmoji = true
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
-      icon_pack = "ia"
+      icon_pack = "ai"
       url       = "https://scholar.google.com/citations?user=4-smEUQAAAAJ&hl=pt-BR"
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
