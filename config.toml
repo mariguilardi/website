@@ -147,7 +147,7 @@ enableEmoji = true
   [[menu.footer]]
     name = "Licença"
     title = "Licença"
-    url = "/licenca/"
+    url = "/licence/"
     weight = 1
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
