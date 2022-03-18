@@ -8,7 +8,7 @@ intro: |
   Sou bióloga e aspirante a Cientista de Dados. Atualmente, sou mestranda no Programa Interunidades em Biotecnologia pela USP/IPT/ Instituto Butantan. 
   Desenvolvi experiência em análise de dados com linguagens Python e R.
   Já na Biologia, tenho experiência em técnicas citogenéticas (rotineiras e hibridização in situ fluorescente) e de genética molecular. Também tenho experiência em análise dados genéticos e de distribuição espacial com ferramentas computacionais (ex. Geneious e QuantumGis).
-  Participo das comunidades de diversidade e inclusão, como PyLadies São Paulo e R-Ladies São Paulo, onde organizou eventos e participou como instrutora e monitora. Também é membra do Grupos de Estudos em Data Science das PyLadies São Paulo, que tem intuito de estudar estatística e linguagem Python com aplicação na Ciência de Dados.
+  Participo de comunidades de diversidade e inclusão, como PyLadies São Paulo e R-Ladies São Paulo, onde organizei eventos e participei como instrutora e monitora. Também sou membra do Grupos de Estudos em Data Science das PyLadies São Paulo (GEDS), que tem intuito de estudar estatística e linguagem Python com aplicação na Ciência de Dados.
   
 ---
 
