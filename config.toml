@@ -74,13 +74,25 @@ enableEmoji = true
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   [[params.social]]
-      icon      = "google-scholar" # icon name without the 'fa-'
+    icon      = "envelope" # icon name without the 'fa-'
+    icon_pack = "far"
+    url       = "mailto:diasgmariana@gmail.com"
+  [[params.social]]
+      icon      = "cv" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://scholar.google.com/citations?user=4-smEUQAAAAJ&hl=pt-BR"
+      url       = "data/cv.pdf"
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/mariguilardi"
+  [[params.social]]
+      icon      = "google-scholar" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://scholar.google.com/citations?user=4-smEUQAAAAJ&hl=pt-BR"
+  [[params.social]]
+      icon      = "lattes" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "http://lattes.cnpq.br/2306206044499199"
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -101,14 +113,14 @@ enableEmoji = true
 
 [menu]
   [[menu.header]]
-    name = "Sobre"
-    title = "About Blogophonic"
-    url = "/sobre/"
+    name = "Página Inicial"
+    title = "Página Inicial"
+    url = "/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
+    name = "Sobre"
+    title = "Sobre"
+    url = "/sobre/"
     weight = 2
   [[menu.header]]
     name = "Projetos"
@@ -120,6 +132,11 @@ enableEmoji = true
     title = "Apresentações"
     url = "/apresentacoes/"
     weight = 4
+  [[menu.header]]
+    name = "Pesquisa"
+    title = "Pesquisa"
+    url = "/pesquisa/"
+    weight = 5
     
   # Configure footer  
   [[menu.footer]]
@@ -127,11 +144,6 @@ enableEmoji = true
     title = "Licença"
     url = "/licenca/"
     weight = 1
-  [[menu.footer]]
-    name = "Contato"
-    title = "Formulário de Contato"
-    url = "/contato/"
-    weight = 2
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
