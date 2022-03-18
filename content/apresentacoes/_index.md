@@ -1,8 +1,8 @@
 ---
-title: Talks that Last
+title: Apresentações
 description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
-author: "The R Markdown Team @RStudio"
+  Esta é uma lista de palestras e oficinas que ministrei ou organizei.
+author: "Mariana Guilardi"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
@@ -27,7 +27,7 @@ sidebar:
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "The R Markdown Team @RStudio"
+  author: "Mariana Dias Guilardi"
   show_author_byline: true
   show_post_date: true
   show_post_time: true
