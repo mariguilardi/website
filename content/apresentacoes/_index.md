@@ -2,6 +2,7 @@
 title: Apresentações
 description: |
   Esta é uma lista de palestras e oficinas que ministrei ou organizei.
+  Página sob construção.
 author: "Mariana Guilardi"
 show_post_thumbnail: true
 show_author_byline: true
@@ -15,7 +16,7 @@ sidebar:
   title: Apresentações
   description: |
     Esta é uma lista de palestras e oficinas que ministrei ou organizei.
-    
+    Página sob construção
     Check out the _index.md file in the /talk folder 
     to edit this content. 
   author: "Mariana Dias Guilardi"
