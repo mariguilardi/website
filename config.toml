@@ -116,7 +116,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Sobre Mim"
     title = "Sobre mim"
-    url = "/sobre/"
+    url = "/about/"
     weight = 2
   [[menu.header]]
     name = "CV"
