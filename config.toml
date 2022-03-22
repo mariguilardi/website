@@ -78,10 +78,6 @@ enableEmoji = true
     icon_pack = "far"
     url       = "mailto:diasgmariana@gmail.com"
   [[params.social]]
-      icon      = "cv" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "data/cv.pdf"
-  [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/mariguilardi"
