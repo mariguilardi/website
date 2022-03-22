@@ -4,8 +4,8 @@ subtitle: "Grupo de Estudos em Ciência de Dados"
 excerpt: "O GEDS é um grupo de mulheres integrantes do PyLadies São Paulo que se reuniram para estudar Python e Ciência de Dados."
 excerpt: "O GEDS é um grupo de mulheres integrantes do PyLadies São Paulo que se reuniram para estudar Python e Ciência de Dados."
 weight: 1
-date: 2018
 draft: false
+layout: single-sidebar
 tags:
   - data science
   - python
