@@ -1,6 +1,6 @@
 ---
-title: A Project Portfolio To Grow
-description: "Give your projects a place to live online."
+title: Projetos que participo
+description: 
 author: "The R Markdown Team @RStudio"
 show_post_thumbnail: true
 show_author_byline: true
@@ -15,7 +15,7 @@ sidebar:
     Projects can be anything!
     Check out the _index.md file in the /project folder 
     to edit this content.
-  author: "The R Markdown Team @RStudio"
+  author: "Mariana D. Guilardi"
   text_link_label: ""
   text_link_url: ""
   show_sidebar_adunit: false # show ad container
@@ -28,7 +28,7 @@ cascade:
   # for single-sidebar layout only
   sidebar:
     text_link_label: View all projects
-    text_link_url: /project/
+    text_link_url: /projetos/
     show_sidebar_adunit: false # show ad container
 ---
 
