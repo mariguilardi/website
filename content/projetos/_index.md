@@ -1,6 +1,7 @@
 ---
 title: Projetos que participo
-subtitle: Página em construção
+description: Página em construção
+author: "Mariana Guilardi"
 show_post_thumbnail: true
 show_author_byline: false
 show_post_date: false
