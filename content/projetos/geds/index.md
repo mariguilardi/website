@@ -2,7 +2,7 @@
 title: "GEDS"
 subtitle: "O GEDS é um grupo de mulheres integrantes do PyLadies São Paulo que se reuniram para estudar Python e Ciência de Dados. O grupo foi formado em 2018 e hoje conta com mulheres das áreas das Ciências Biológicas e Humanas, Física, Estatística e Tecnologia"
 excerpt: "Membra do Grupo de Estudos em Ciência de Dados"
-weight: 1
+weight: 2
 author: "Angélica Custodio, Deborah Foroni, Laryssa Kato, Maria Marinho Mariana D. Guilardi, Patricia Guisordi e Priscila Agostinho"
 draft: false
 categories:
