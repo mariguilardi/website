@@ -1,7 +1,7 @@
 ---
 title: "satRday São Paulo"
-subtitle: "Participei da organização do evento, ocorreu em 2019 e que apresentou palestras sobre R e mesas-redondas sobre diferentes comunidades brasileiras dentro dessa linguagem de programação."
-excerpt: "Organização."
+subtitle: "O satRday São Paulo é evento que ocorreu em 2019 organizado pela comunidade R. O evento teve palestras sobre R e mesas-redondas sobre diferentes comunidades brasileiras dentro dessa linguagem de programação."
+excerpt: "Organização do evento"
 weight: 1
 author: Comunidade de R
 draft: false
