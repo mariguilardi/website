@@ -23,5 +23,3 @@ links:
   name: code
   url: https://github.com/PyLadiesSP/data-science
 ---
-
-Parti
