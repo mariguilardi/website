@@ -133,12 +133,7 @@ enableEmoji = true
     title = "Apresentações"
     url = "/apresentacoes/"
     weight = 5
-  [[menu.header]]
-    name = "Pesquisa"
-    title = "Pesquisa"
-    url = "/pesquisa/"
-    weight = 6
-    
+
   # Configure footer  
   [[menu.footer]]
     name = "Licença"
