@@ -3,7 +3,7 @@ title: Apresentações
 description: |
   Esta é uma lista de palestras e oficinas que ministrei ou organizei.
   Página sob construção.
-author: "Mariana Guilardi"
+author: "Mariana Dias Guilardi"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
@@ -16,7 +16,7 @@ sidebar:
   title: Apresentações
   description: |
     Esta é uma lista de palestras e oficinas que ministrei ou organizei.
-    Página sob construção
+    Página em construção
     Check out the _index.md file in the /talk folder 
     to edit this content. 
   author: "Mariana Dias Guilardi"
@@ -27,7 +27,7 @@ sidebar:
 # set up common front matter for all pages inside blog/
 cascade:
   author: "Mariana Dias Guilardi"
-  show_author_byline: true
+  show_author_byline: false
   show_post_date: true
   show_post_time: true
   show_disqus_comments: false # see disqusShortname in site config
