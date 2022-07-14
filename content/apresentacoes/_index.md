@@ -5,9 +5,9 @@ description: |
   Página sob construção.
 author: "Mariana Dias Guilardi"
 show_post_thumbnail: true
-show_author_byline: true
-show_post_date: true
-show_post_time: true
+show_author_byline: false
+show_post_date: false
+show_post_time: false
 # for listing page layout
 layout: list # list, list-sidebar
 
@@ -28,8 +28,8 @@ sidebar:
 cascade:
   author: "Mariana Dias Guilardi"
   show_author_byline: false
-  show_post_date: true
-  show_post_time: true
+  show_post_date: false
+  show_post_time: false
   show_disqus_comments: false # see disqusShortname in site config
   # for single-sidebar layout
   sidebar:
