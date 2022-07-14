@@ -1,6 +1,6 @@
 ---
 title: "Mariana Dias Guilardi"
-subtitle: "Bióloga | Ciência de Dados"
+subtitle: "Bioinformática | Ciência de Dados"
 description: "Boas vindas a minha página! 👋"
 date: 2019-02-18T12:27:33-06:00
 images:
