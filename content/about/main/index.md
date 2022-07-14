@@ -7,7 +7,7 @@ show_intro: true
 intro: |
   Sou bióloga e mestre pelo Programa Interunidades em Biotecnologia pela USP/IPT/ Instituto Butantan. Meus principais interesses são as áreas de Bioinformática e Ciência de Dados. 
 
-  Atuo como consultora na área de Ciência de Dados, com experiência em análise de dados com linguagens Python e R. 
+  Atuo como consultora na área de Ciência de Dados, com experiência nas linguagens Python e R. 
 
   Tenho experiência em técnicas de Biologia Molecular e Citogenética. Também tenho experiência em análise dados genéticos e de distribuição espacial com ferramentas computacionais, como Geneious e QuantumGis.
 
