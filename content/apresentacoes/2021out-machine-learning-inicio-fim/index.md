@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning do Início ao fim"
 subtitle: "Uma breve visão de um projeto de ML"
-excerpt: "Palestra no evento Python Brasil 2021"
+excerpt: "Palestra sobre os passos para a construção de um projeto de Machine Learning no evento Python Brasil 2021"
 date: 2021-10-11
 show_post_time: false
 event: "Machine Learning do Início ao fim: Uma breve visão de um projeto de ML"
