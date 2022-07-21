@@ -1,7 +1,7 @@
 ---
 title: "R Básico"
 subtitle: ""
-excerpt: "Oficina sobre introdução a linguagem R."
+excerpt: "Oficina sobre introdução a linguagem R para a comunidade RLadies São Paulo"
 date: 2020-02-08
 show_post_time: false
 event: "Curso Básico de R"
