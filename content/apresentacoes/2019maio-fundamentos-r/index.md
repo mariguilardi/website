@@ -15,6 +15,10 @@ layout: single
 categories:
 - workshop
 links:
+- icon: presentation-screen
+  icon_pack: fab
+  name: presentation-screen
+  url: https://mariguilardi.github.io/2019-05-Fundamentals-Of-R-R-LadiesSP/#1
 - icon: github
   icon_pack: fab
   name: code
