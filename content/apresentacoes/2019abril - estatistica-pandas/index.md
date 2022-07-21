@@ -1,7 +1,7 @@
 ---
 title: "Introdução a Estatística com Pandas"
 subtitle: 
-excerpt: "Oficina para a comunidade PyLadies São Paulo"
+excerpt: "Oficina sobre Estatística Descritiva utilizando a biblioteca Pandas da linguagem Python para a comunidade PyLadies São Paulo"
 date: 2019-04-13
 show_post_time: false
 event: "Introdução a Estatística com Pandas"
