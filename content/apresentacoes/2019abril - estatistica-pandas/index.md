@@ -14,7 +14,7 @@ categories:
 - oficina
 links:
 - icon: eye
-  icon_pack: fab
+  icon_pack: fas
   name: Apresentação
   url: https://github.com/PyLadiesSP/data-science/blob/master/Oficinas/oficina_introdu%C3%A7%C3%A3o_estatistica_pandas/Workshop%20Introdu%C3%A7%C3%A3o%20a%20Estat%C3%ADstica%20e%20Pandas%20Respostas.pdf
 - icon: github
