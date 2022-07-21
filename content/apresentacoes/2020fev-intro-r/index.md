@@ -13,9 +13,9 @@ layout: single
 categories:
 - oficina
 links:
-- icon: presentation-screen
+- icon: eye
   icon_pack: fab
-  name: presentation-screen
+  name: Apresentação
   url: https://beatrizmilz.github.io/2020-R-Ladies-SP-Basico/#1
 - icon: github
   icon_pack: fab
