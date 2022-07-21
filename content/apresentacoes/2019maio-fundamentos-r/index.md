@@ -1,7 +1,7 @@
 ---
 title: "Fundamentos em R"
 subtitle: ""
-excerpt: "Oficinas sobre os fundamentos em linguagem R."
+excerpt: "Oficinas sobre os fundamentos em linguagem R para a comunidade RLadies São Paulo"
 date: 2019-05-25
 date_end: "2021-01-13"
 show_post_time: false
