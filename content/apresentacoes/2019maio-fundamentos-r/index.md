@@ -15,9 +15,9 @@ layout: single
 categories:
 - oficina
 links:
-- icon: presentation-screen
+- icon: eye
   icon_pack: fab
-  name: presentation-screen
+  name: Apresentação
   url: https://mariguilardi.github.io/2019-05-Fundamentals-Of-R-R-LadiesSP/#1
 - icon: github
   icon_pack: fab
