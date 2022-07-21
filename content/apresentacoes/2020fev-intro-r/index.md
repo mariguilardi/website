@@ -11,7 +11,7 @@ draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- workshop
+- oficina
 links:
 - icon: presentation-screen
   icon_pack: fab
