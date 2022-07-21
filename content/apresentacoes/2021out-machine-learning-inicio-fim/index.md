@@ -11,8 +11,12 @@ draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- workshop
+- palestra
 links:
+- icon: youtube
+  icon_pack: fab
+  name: youtube
+  url: https://www.youtube.com/watch?v=VVuCs9E5LrY
 - icon: github
   icon_pack: fab
   name: code
