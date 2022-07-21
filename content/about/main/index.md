@@ -5,7 +5,7 @@ number_featured: 1 # pulling from mainSections in config.toml
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Sou bióloga e mestre pelo Programa Interunidades em Biotecnologia pela USP/IPT/ Instituto Butantan. Meus principais interesses são as áreas de Bioinformática e Ciência de Dados. 
+  Sou bióloga e mestre pelo Programa Interunidades em Biotecnologia USP/IPT/Instituto Butantan. Meus principais interesses são as áreas de Bioinformática e Ciência de Dados. 
 
   Atuo como consultora na área de Ciência de Dados, com experiência nas linguagens Python e R. 
 
