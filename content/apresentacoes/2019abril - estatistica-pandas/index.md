@@ -13,8 +13,8 @@ layout: single
 categories:
 - oficina
 links:
-- icon: person-chalkboard
-  icon_pack: fas
+- icon: display
+  icon_pack: fab
   name: Apresentação
   url: https://github.com/PyLadiesSP/data-science/blob/master/Oficinas/oficina_introdu%C3%A7%C3%A3o_estatistica_pandas/Workshop%20Introdu%C3%A7%C3%A3o%20a%20Estat%C3%ADstica%20e%20Pandas%20Respostas.pdf
 - icon: github
