@@ -1,6 +1,6 @@
 ---
-title: "Machine Learning do Início ao fim"
-subtitle: "Introdução a Estatística com Pandas"
+title: "Introdução a Estatística com Pandas"
+subtitle: 
 excerpt: "Oficina para a comunidade PyLadies São Paulo"
 date: 2019-04-13
 show_post_time: false
