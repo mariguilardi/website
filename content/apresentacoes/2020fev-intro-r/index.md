@@ -13,6 +13,10 @@ layout: single
 categories:
 - workshop
 links:
+- icon: presentation-screen
+  icon_pack: fab
+  name: presentation-screen
+  url: https://beatrizmilz.github.io/2020-R-Ladies-SP-Basico/#1
 - icon: github
   icon_pack: fab
   name: code
