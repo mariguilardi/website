@@ -16,7 +16,7 @@ categories:
 - oficina
 links:
 - icon: eye
-  icon_pack: fab
+  icon_pack: fas
   name: Apresentação
   url: https://mariguilardi.github.io/2019-05-Fundamentals-Of-R-R-LadiesSP/#1
 - icon: github

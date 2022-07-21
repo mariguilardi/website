@@ -14,7 +14,7 @@ categories:
 - oficina
 links:
 - icon: eye
-  icon_pack: fab
+  icon_pack: fas
   name: Apresentação
   url: https://beatrizmilz.github.io/2020-R-Ladies-SP-Basico/#1
 - icon: github
